@@ -5,6 +5,8 @@ Whether you're a student, professional, or simply someone who needs to crunch nu
 
 Our calculator offers a wide range of functions to cater to your mathematical needs. It can handle basic arithmetic operations such as addition, subtraction, multiplication, and division, making it perfect for everyday calculations. But that's not all! We also support advanced mathematical operations like exponentiation, square roots, logarithms, trigonometric functions, and more. No matter the complexity of your calculation, our calculator is up to the task.
 
+![Screenshot (231)](https://github.com/Ankita19soni/Calculator/assets/132035991/66307fe2-2ad0-49bf-ad4f-1d72c53d7a69)
+
 We understand the importance of accuracy, which is why our calculator ensures precise results. You can rely on our advanced algorithms and calculations to provide you with the correct answers every time. Additionally, our calculator supports different number formats, including decimal, fraction, and scientific notation, allowing you to work with numbers in your preferred format.
 
 Customization is key, so we've included options to personalize your calculator experience. You can choose between light and dark themes, adjust the font size, and even customize the display to show additional features like history, memory functions, and equation editing.
