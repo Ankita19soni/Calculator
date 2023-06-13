@@ -1,4 +1,4 @@
-# Calculator (calcank.netlify.app/)
+# Calculator 
 Welcome to our online calculator! Our website is designed to provide you with a convenient and reliable tool for performing various mathematical calculations quickly and accurately.
 
 Whether you're a student, professional, or simply someone who needs to crunch numbers, our calculator is here to assist you. With its user-friendly interface and intuitive design, you'll find it easy to navigate and input your calculations.
